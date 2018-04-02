@@ -1,0 +1,16 @@
+[submodule "tfjs-converter"]
+	path = tfjs-converter
+	url = https://github.com/PLUS-Vision/tfjs-converter.git
+[submodule "tf-models"]
+	path = tf-models
+	url = https://github.com/PLUS-Vision/tf-models.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/PLUS-Vision/tensorflow.git
+[submodule "tfjs-examples"]
+	path = tfjs-examples
+	url = https://github.com/tensorflow/tfjs-examples.git
+[submodule "tfjs-website"]
+	path = tfjs-website
+	url = https://github.com/plus-vision/tfjs-website
+	branch = debug/master

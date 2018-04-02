@@ -1,0 +1,6 @@
+[submodule "libs/tfjs-core"]
+	path = libs/tfjs-core
+        url = https://github.com/tensorflow/tfjs-core.git 
+[submodule "libs/tfjs-layers"]
+	path = libs/tfjs-layers
+        url = https://github.com/tensorflow/tfjs-layers.git 
